@@ -3,3 +3,9 @@
 
 # Logs
 *.log*
+
+# Node
+node_modules
+
+# Dist
+/dist/

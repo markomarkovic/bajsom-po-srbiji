@@ -1,0 +1,14 @@
+{
+  "name": "bajsom-po-srbiji",
+  "version": "0.0.1",
+  "description": "Dnevnik putovanja",
+  "license": "CC-BY-NC-ND-4.0",
+  "private": "true",
+  "devDependencies": {
+    "vuepress": "1.8.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  }
+}
