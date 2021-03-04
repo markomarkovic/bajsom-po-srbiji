@@ -9,3 +9,5 @@ U Vlasotincu su klinci pravo sa bicikle skočili u jezero, a posle kratke pauze 
 **Km. 334**
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/bajsom-po-srbiji_570086?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=undefined&captionBar=false&fullscreenControl=true&locateControl=false&editinosmControl=false&datalayers=1627814#10/43.0800/21.9574"></iframe>
+
+![Visinski profil](./img/dan-12.png)

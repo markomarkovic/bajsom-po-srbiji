@@ -306,8 +306,8 @@ def google_chart_url(trk,x,y,metric=True):
 	range='&chxr=0,0,%s|1,%s,%s'%(int(max_x),int(min_y),int(max_y))
 	data=google_ext_encode_data(trk,x,y,min_x,max_x,min_y,max_y,metric)
 	url=urlprefix+url+range+data
-	if len(url) > 2048:
-		raise OverflowError("URL too long, reduce number of points: "+(url))
+	# if len(url) > 2048:
+	# 	raise OverflowError("URL too long, reduce number of points: "+(url))
 	return url
 
 def print_gpx_trk(trk,file=sys.stdout,metric=True):

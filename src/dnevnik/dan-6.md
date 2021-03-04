@@ -7,3 +7,5 @@ Rano u zoru 10.7. pakovanje za put pa uz Goč. 11 napornih km. uzbrdo, a onda vo
 Očekivao sam da će biti hladno pa smo se dobro umotali, ali noć je bila divna. Gazda Mitar nam je ujutru doneo kafu i rakiju ali je on više popio, pa ga je ćerka Biserka jedva oterala da denu seno.
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/bajsom-po-srbiji_570086?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=undefined&captionBar=false&fullscreenControl=true&locateControl=false&editinosmControl=false&datalayers=1627184#11/43.5317/20.9052"></iframe>
+
+![Visinski profil](./img/dan-6.png)

@@ -21,3 +21,5 @@ U selu Kriva Reka kuća Petrović Bogdana i sina Radivoja. Sreli smo ga na putu 
 ![Video igrice](./img/video_igrice.jpg)
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/bajsom-po-srbiji_570086?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=undefined&captionBar=false&fullscreenControl=true&locateControl=false&editinosmControl=false&datalayers=1627582#13/43.4259/20.8867"></iframe>
+
+![Visinski profil](./img/dan-7.png)

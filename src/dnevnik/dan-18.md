@@ -7,3 +7,5 @@ Došli smo do Bele Palanke i čekali pare na pošti. Malo smo gubili vreme po gr
 **Km. 558**
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/bajsom-po-srbiji_570086?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=undefined&captionBar=false&fullscreenControl=true&locateControl=false&editinosmControl=false&datalayers=1627835#12/43.2469/22.4192"></iframe>
+
+![Visinski profil](./img/dan-18.png)
