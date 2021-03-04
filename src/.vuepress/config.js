@@ -57,6 +57,7 @@ module.exports = {
             "dan-25",
             "dan-26",
             "dan-27",
+            "dodatak",
           ],
         },
       ],
