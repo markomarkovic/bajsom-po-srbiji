@@ -5,7 +5,9 @@ module.exports = {
   title,
   description,
 
-  dest: './dist',
+  dest: "./dist",
+
+  base: process.env.NODE_ENV === "development" ? "/" : "/bajsom-po-srbiji/",
 
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
