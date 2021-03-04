@@ -5,7 +5,7 @@ prev: ../
 
 ## 5.7.93.
 
-![Biciklisti](/Biciklisti.jpg)
+![Biciklisti](./img/Biciklisti.jpg)
 
 Na put smo krenuli kasno, oko 10h zato što me je boleo prst, a i deca su duže spavala. Vozili smo preko Dragocveta i Bunara, a kad samo skrenuli preko Cikota Nikola je odmarao svakih 5 min po 10 min.
 
