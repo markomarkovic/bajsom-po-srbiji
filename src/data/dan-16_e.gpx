@@ -4,60 +4,6 @@
   <name>Ruta</name>
   <desc>name=Ruta</desc>
   <trkseg>
-    <trkpt lat="42.663188" lon="22.375631">
-      <ele>1291.663</ele>
-    </trkpt>
-    <trkpt lat="42.663441" lon="22.376018">
-      <ele>1291.306</ele>
-    </trkpt>
-    <trkpt lat="42.663409" lon="22.37649">
-      <ele>1289.657</ele>
-    </trkpt>
-    <trkpt lat="42.663756" lon="22.376876">
-      <ele>1299.305</ele>
-    </trkpt>
-    <trkpt lat="42.664103" lon="22.37752">
-      <ele>1302.124</ele>
-    </trkpt>
-    <trkpt lat="42.664261" lon="22.378206">
-      <ele>1299.707</ele>
-    </trkpt>
-    <trkpt lat="42.66464" lon="22.378421">
-      <ele>1306.186</ele>
-    </trkpt>
-    <trkpt lat="42.665082" lon="22.378335">
-      <ele>1311.375</ele>
-    </trkpt>
-    <trkpt lat="42.665523" lon="22.378035">
-      <ele>1317.074</ele>
-    </trkpt>
-    <trkpt lat="42.665776" lon="22.377992">
-      <ele>1320.124</ele>
-    </trkpt>
-    <trkpt lat="42.666375" lon="22.378464">
-      <ele>1320.951</ele>
-    </trkpt>
-    <trkpt lat="42.666975" lon="22.378292">
-      <ele>1330.948</ele>
-    </trkpt>
-    <trkpt lat="42.667716" lon="22.377648">
-      <ele>1345.44</ele>
-    </trkpt>
-    <trkpt lat="42.668111" lon="22.37767">
-      <ele>1342.019</ele>
-    </trkpt>
-    <trkpt lat="42.669152" lon="22.376704">
-      <ele>1344.072</ele>
-    </trkpt>
-    <trkpt lat="42.670383" lon="22.375116">
-      <ele>1355.307</ele>
-    </trkpt>
-    <trkpt lat="42.671329" lon="22.374837">
-      <ele>1355.662</ele>
-    </trkpt>
-    <trkpt lat="42.671771" lon="22.375631">
-      <ele>1353.287</ele>
-    </trkpt>
     <trkpt lat="42.672576" lon="22.37591">
       <ele>1358.446</ele>
     </trkpt>
